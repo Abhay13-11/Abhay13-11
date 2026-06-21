@@ -197,7 +197,7 @@ A structured 4-week problem set covering core data structures, algorithms, and o
 <tr><td>🏅</td><td><strong>Salesforce Agentblazer Champion 2026</strong></td></tr>
 <tr><td>🧠</td><td><strong>400+ DSA problems solved</strong> across arrays, trees, graphs, DP, and binary search</td></tr>
 <tr><td>🤝</td><td><strong>Internshala Student Partner</strong></td></tr>
-<tr><td>📈</td><td><strong>8.53 CGPA</strong> in B.Tech Computer Science</td></tr>
+<tr><td>📈</td><td><strong>8.69 CGPA</strong> in B.Tech Computer Science</td></tr>
 </table>
 
 <br/>
