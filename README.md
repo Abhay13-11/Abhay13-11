@@ -7,7 +7,7 @@
 <h1>ABHAY SINGH CHAUHAN</h1>
 
 <p>
-<sub><strong>FULL-STACK ENGINEER</strong> &nbsp;·&nbsp; <strong>MERN STACK</strong> &nbsp;·&nbsp; <strong>COMPETITIVE PROGRAMMER</strong></sub>
+<sub><strong>FULL-STACK DEVELOPER</strong> &nbsp;·&nbsp; <strong>SOFTWARE ENGINEERING STUDENT</strong> &nbsp;·&nbsp; <strong>COMPETITIVE PROGRAMMER</strong></sub>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+full-stack+systems+that+actually+ship;400%2B+DSA+problems%2C+zero+shortcuts;MERN+%E2%80%A2+system+design+%E2%80%A2+clean+APIs;Open+to+SDE+internships" alt="Typing SVG" />
@@ -228,15 +228,20 @@ A structured 4-week problem set covering core data structures, algorithms, and o
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay13-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages"/>
 
+<br/>
+
+
 </div>
 
 <br/>
 
-## LeetCode
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="25"/> LeetCode
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhay_13_11?theme=dark&font=baloo2&extension=activity)](https://leetcode.com/u/Abhay_13_11/)
+<a href="https://leetcode.com/u/Abhay_13_11/">
+  <img src="https://leetcard.jacoblin.cool/Abhay_13_11?theme=dark&font=JetBrains+Mono&ext=contest" />
+</a>
 
 </div>
 
