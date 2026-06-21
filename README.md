@@ -27,7 +27,7 @@
 
 ## About
 
-I'm a Computer Science undergraduate at GL Bajaj Institute of Technology & Management, currently holding an 8.53 CGPA. My focus sits at the intersection of full-stack engineering and algorithmic problem-solving — I'd rather deeply understand how a system works than collect frameworks.
+I'm a Computer Science undergraduate at GL Bajaj Institute of Technology & Management, currently holding an 8.69 CGPA. My focus sits at the intersection of full-stack engineering and algorithmic problem-solving — I'd rather deeply understand how a system works than collect frameworks.
 
 Most of my time goes into two things: shipping MERN applications with real backend logic behind them, and working through data structures and algorithms with consistency rather than bursts. I've solved 400+ problems on that front, and I'm currently moving into system design to understand how the pieces I build fit into something larger.
 
